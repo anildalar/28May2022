@@ -1,0 +1,7 @@
+A,B,C,D
+
+	Local Branch/Directory/Folder 
+					D
+
+	Remote Branch (github)
+					D ---> Master
